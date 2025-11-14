@@ -34,6 +34,10 @@ function Actividad1() {
           <p>
             Es fundamental entender que las inteligencias (humanas y no humanas) podrían aumentar de manera exponencial sus capacidades si se enlazaran y se aplicaran criterios de todas para cumplir con los requisitos de la vida diaria, es decir, si la mayoría de los humanos tuvieran la humildad de aceptar las aportaciones de inteligencias que no pertenecen al gremio humano y la disposición de capacitarse para extraer la mayor utilidad de las mismas, los niveles de la inteligencia humana podrían aumentar en gran medida y beneficiar a la propia humanidad.
           </p>
+          
+          <br />
+
+          <p>Si desea ver la conferencia completa, puede dar click al siguiente  <a target='_blank' href="https://www.youtube.com/watch?v=gN05JyyVdQo">enlace</a></p>
 
           <p>Si desea ver esta opinión en el Campus ULA, puede dar click al siguiente <a target='_blank' href="https://campusula.net/mod/forum/discuss.php?d=16443#p27972">enlace</a></p>
         </div>
