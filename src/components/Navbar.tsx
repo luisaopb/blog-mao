@@ -8,24 +8,24 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-line"></div>
       <div className="navbar-content">
-        <Link 
+        {/* <Link 
           to="/" 
           className={`navbar-link ${location.pathname === '/' ? 'active' : ''}`}
         >
           Inicio
-        </Link>
+        </Link> */}
         <Link 
           to="/opiniones" 
           className={`navbar-link ${location.pathname === '/opiniones' ? 'active' : ''}`}
         >
           Opiniones
         </Link>
-        <Link 
+        {/* <Link 
           to="/videos" 
           className={`navbar-link ${location.pathname === '/videos' ? 'active' : ''}`}
         >
           Videos
-        </Link>
+        </Link> */}
       </div>
       <div className="navbar-line"></div>
     </nav>
