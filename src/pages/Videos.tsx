@@ -15,13 +15,10 @@ function Videos() {
           </p>
         </div>
       </section>
-      
-      <footer className="home-footer">
-        <span>@reallygreatsite</span>
-      </footer>
     </div>
   )
 }
 
 export default Videos
+
 

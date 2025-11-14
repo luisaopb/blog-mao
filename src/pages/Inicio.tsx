@@ -98,14 +98,10 @@ function Inicio() {
           </div>
         </div>
       </section>
-
-      {/* Footer */}
-      <footer className="home-footer">
-        <span>@reallygreatsite</span>
-      </footer>
     </div>
   )
 }
 
 export default Inicio
+
 

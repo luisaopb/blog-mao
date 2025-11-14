@@ -1,4 +1,5 @@
 import Navbar from '../components/Navbar'
+import { Link } from 'react-router-dom'
 import '../Home.css'
 
 function Opiniones() {
@@ -8,20 +9,20 @@ function Opiniones() {
       
       <h1 className="main-title">Opiniones</h1>
       
+      <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
+        <Link to="/actividad1" style={{ fontSize: '1.2rem', textDecoration: 'none', color: 'inherit' }}>
+          Foro Semana 1
+        </Link>
+      </div>
+      
       <section className="content-block">
         <div className="text-content">
-          <p>
-            Esta es la página de Opiniones. Aquí puedes encontrar nuestras opiniones y reflexiones sobre diversos temas.
-          </p>
         </div>
       </section>
-      
-      <footer className="home-footer">
-        <span>@reallygreatsite</span>
-      </footer>
     </div>
   )
 }
 
 export default Opiniones
+
 
