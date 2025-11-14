@@ -20,7 +20,7 @@ function Actividad1() {
       <section className="content-block">
         <div className="text-content">
           <p>
-            Empiezo subrayando que la opinión de la autora responde al rol de mediadora entre los humanos y la utilidad de las inteligencias no humanas, ya que expone los pros y los contras del uso de estas, pero presenta de manera clara cuales son los puntos fuertes que pueden ser explotados como herramienta de crecimiento y los puntos débiles que invitan al individuo a mantener su autonomía.
+            Empiezo subrayando que la opinión de la autora Lorena Rojas en su conferencia "Reflexiones sobre la vida, la tecnología y las inteligencias no humanas", responde al rol de mediadora entre los humanos y la utilidad de las inteligencias no humanas, ya que expone los pros y los contras del uso de estas, pero presenta de manera clara cuales son los puntos fuertes que pueden ser explotados como herramienta de crecimiento y los puntos débiles que invitan al individuo a mantener su autonomía.
           </p>
 
           <p>
