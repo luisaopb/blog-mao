@@ -6,13 +6,13 @@ function Actividad1() {
     <div className="home">
       <Navbar />
       
-      <div style={{ display: 'flex', alignItems: 'center', gap: '2rem', marginBottom: '4rem' }}>
+      <div className="actividad-header">
         <img 
           src="/actividad1.png" 
           alt="Actividad 1" 
-          style={{ maxWidth: '300px', height: 'auto', flexShrink: 0 }}
+          className="actividad-image"
         />
-        <h1 className="main-title" style={{ textAlign: 'left', margin: 0, flex: 1 }}>
+        <h1 className="main-title actividad-title">
           El futuro del trabajo: inteligencia humana + inteligencia no humana
         </h1>
       </div>
